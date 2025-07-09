@@ -22,3 +22,4 @@
 
 [Binaries.AARCH64]
   PE32|AArch64/RtkUndiDxe.efi|*
+  DXE_DEPEX|AArch64/RtkUndiDxe.depex
